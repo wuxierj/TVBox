@@ -96,7 +96,7 @@
 
 ## 贡献与反馈
 
-- 有优质接口欢迎提 [Issue](https://github.com/wuxierj/你TVBox/issues) 或 PR；
+- 有优质接口欢迎提 [Issue](https://github.com/wuxierj/TVBox/issues) 或 PR；
 - 接口失效也请反馈，我会定期维护更新。
 
 ---
