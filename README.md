@@ -65,3 +65,9 @@ http://www.饭太硬.xyz/tv
 http://fty.xxooo.cf/tv
 http://fty.888484.xyz/tv
 http://fty.333232.xyz/tv
+名称	地址	复制	
+无邪多仓	`https://gitee.com/wxej/wxrj/raw/master/wx.json`	[![Copy][copy-svg]][copy-js]	
+装 B 多仓（原欧歌）	`https://xn--zq2ao005e.u.xn--dkw.xn--6qq986b3xl/apia.php?id=1`	[![Copy][copy-svg]][copy-js]	
+装 B 镜像	`https://xn--hiih-wn6lw489o.v.nxog.top/apia.php?id=1`	[![Copy][copy-svg]][copy-js]	
+多多	`https://bitbucket.org/xduo/cool/raw/main/room.json`	[![Copy][copy-svg]][copy-js]	
+
